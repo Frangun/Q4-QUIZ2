@@ -1,0 +1,52 @@
+body {
+	background-image: url(h.jpg);
+	background-size: cover;
+	font-family: monospace;
+}
+
+.container {
+	background-color: #A5907E;
+	color: #443730;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 10px 5px 5px dimgray;
+}
+
+a {
+	text-decoration: none;
+	color: #443730;
+	background-color: #A5907E;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+.header {
+	background-color: #A5907E;
+	color: #443730;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 10px 5px 5px dimgray;
+}
+
+.form-control {
+	background-color: lightgray;
+}
+
+.img-fluid {
+	border-radius: 8px;
+}
+
+summary {
+	font-size: 150%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 3px solid #443730;
+  text-align: left;
+  padding: 8px;
+}
